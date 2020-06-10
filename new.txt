@@ -1,6 +1,5 @@
 new file
 new amend
 amend
-
-amend2
-Do homework
+Conflict resolved
+amend5
